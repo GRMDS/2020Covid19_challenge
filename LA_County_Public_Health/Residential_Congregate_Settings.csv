@@ -1,0 +1,541 @@
+Obs,Setting Name,City,Number of Confirmed Staff,Number of Confirmed Residents,Total Deaths,collect_time
+1,A Bridge Home - St. Andrew's,"Los Angeles, CA",0,1,0,2020-05-12
+2,A Bridge Home- Casa Azul,"Los Angeles, CA",0,2,0,2020-05-12
+3,Affinity Healthcare Center,"Paramount, CA",32,32,5,2020-05-12
+4,Alameda Care Center,"Burbank, CA",36,49,16,2020-05-12
+5,Alcott Rehabilitation Hospital,"Los Angeles, CA",23,28,14,2020-05-12
+6,Alden Terrace Convalescent Hospital,"Los Angeles, CA",29,88,21,2020-05-12
+7,Alexandria Care Center,"Los Angeles, CA",23,37,13,2020-05-12
+8,"Alhambra Healthcare & Wellness Centre, LP","Alhambra, CA",3,2,0,2020-05-12
+9,Anl Facility Home Inc.,"Norwalk, CA",1,2,1,2020-05-12
+10,Ararat Assisted Living,"Mission Hills, CA",7,9,4,2020-05-12
+11,Ararat Convalescent Hospital,"Eagle Rock, CA",16,6,3,2020-05-12
+12,Arbor Glen Care Center,"Glendora, CA",8,46,1,2020-05-12
+13,Arc Board And Care,"La Mirada, CA",0,1,0,2020-05-12
+14,Arcadia Gardens Retirement Hotel,"Arcadia, CA",4,1,0,2020-05-12
+15,Astoria Nursing And Rehab Center,"Sylmar, CA",44,63,3,2020-05-12
+16,Atria Pacific Palisades,"Pacific Palisades, CA",2,1,1,2020-05-12
+17,Atria Santa Clarita,"Santa Clarita, CA",2,2,0,2020-05-12
+18,Autumn Hills Health Care Center,"Glendale, CA",24,53,5,2020-05-12
+19,Auxiliary Residential Care Inc.,"Los Angeles, CA",1,1,1,2020-05-12
+20,Avantgarde Senior Living And Memory Care,"Tarzana, CA",2,1,2,2020-05-12
+21,Baldwin Gardens Nursing Center,"Temple City, CA",5,7,0,2020-05-12
+22,Barry J. Nidorf Juvenile Hall,"Sylmar, CA",12,1,0,2020-05-12
+23,Beachwood Post Acute & Rehab,"Santa Monica, CA",15,23,5,2020-05-12
+24,Bel Tooren Villa Convalescent Hospital,"Bellflower, CA",4,25,1,2020-05-12
+25,Bell Convalescent Hospital,"Bell, CA",26,16,20,2020-05-12
+26,Belmont Village Rancho Palos Verdes,"Rancho Palos Verdes, CA",0,2,1,2020-05-12
+27,Belmont Village of Encino,"Sherman Oaks, CA",22,20,5,2020-05-12
+28,Belmont Village-Calabasas,"Calabasas, CA",0,2,0,2020-05-12
+29,Beverly Hills Carmel South,"Los Angeles, CA",8,15,6,2020-05-12
+30,Beverly Hills Gardens Board And Care,"Los Angeles, CA",3,5,2,2020-05-12
+31,Bonnie Brae Convalescent Hospital,"Los Angeles, CA",14,16,5,2020-05-12
+32,Brentwood Healthcare Center,"Santa Monica, CA",7,3,0,2020-05-12
+33,Bridges To Recovery,"Los Angeles, CA",2,1,0,2020-05-12
+34,Brier Oak On Sunset,"Los Angeles, CA",72,80,4,2020-05-12
+35,Brookdale Monrovia,"Monrovia, CA",1,1,1,2020-05-12
+36,Brookdale Northridge Memory Care/Assisted Living,"Northridge, CA",3,18,10,2020-05-12
+37,Brookdale Ocean House Assisted Living,"Santa Monica, CA",0,1,0,2020-05-12
+38,Brookfield Healthcare Center,"Downey, CA",3,37,3,2020-05-12
+39,Buena Ventura Post Acute Care Center,"Los Angeles, CA",19,48,12,2020-05-12
+40,Burbank Healthcare And Rehabilitation Center,"Burbank, CA",29,52,8,2020-05-12
+41,Burlington Convalescent Hospital,"Los Angeles, CA",3,1,0,2020-05-12
+42,CPES California Napa Street,"North Hills, CA",0,1,0,2020-05-12
+43,California Healthcare And Rehabilitation Center,"Van Nuys, CA",34,23,5,2020-05-12
+44,California Post Acute Care,"Lynwood, CA",11,16,2,2020-05-12
+45,California Post Acute Convalescent Center,"Los Angeles, CA",8,8,0,2020-05-12
+46,"California State Prison, Lancaster","Lancaster, CA",42,112,0,2020-05-12
+47,Canyon Oaks Nursing And Rehabilitation Center,"Canoga Park, CA",4,1,1,2020-05-12
+48,Carson Senior Assisted Living,"Carson, CA",6,3,0,2020-05-12
+49,Casa De La Victoria,"Lancaster, CA",1,2,0,2020-05-12
+50,Casitas Care Center,"Granada Hills, CA",5,10,0,2020-05-12
+51,Cedars Assisted Living,"Northridge, CA",3,2,0,2020-05-12
+52,Centinela Skilled Nursing & Wellness Centre West,"Inglewood, CA",11,10,8,2020-05-12
+53,Central Juvenile Hall,"Los Angeles, CA",0,2,0,2020-05-12
+54,Century Regional Detention Facility,"Lynwood, CA",5,4,0,2020-05-12
+55,"Century Villa, Inc. Skilled Nursing Facility","Inglewood, CA",19,32,9,2020-05-12
+56,Chandler Convalescent Hospital,"Glendale, CA",5,15,3,2020-05-12
+57,Chatsworth Park Care Center,"Chatsworth, CA",15,15,0,2020-05-12
+58,City View Assisted Living,"Los Angeles, CA",2,9,1,2020-05-12
+59,College Hospital,"Cerritos, CA",6,3,0,2020-05-12
+60,Colonial Gardens Nursing Home,"Pico Rivera, CA",10,38,2,2020-05-12
+61,Community Care Center Inc.,"Duarte, CA",1,1,0,2020-05-12
+62,Coral Oaks Care Living,"Lynwood, CA",0,4,0,2020-05-12
+63,"Corbin Congregate Home, Inc","Northridge, CA",3,4,0,2020-05-12
+64,Country Villa East Nursing Center,"Los Angeles, CA",19,35,8,2020-05-12
+65,Country Villa Mar Vista Nursing Center,"Los Angeles, CA",11,5,1,2020-05-12
+66,Country Villa North Convalescent Center,"Los Angeles, CA",7,5,3,2020-05-12
+67,Country Villa Pavilion Nursing Center,"Los Angeles, CA",21,57,8,2020-05-12
+68,Country Villa Sheraton Nursing And Rehab Center,"Sepulveda, CA",6,11,3,2020-05-12
+69,Country Villa Westwood Convalescent Center,"Los Angeles, CA",7,1,0,2020-05-12
+70,Country Villa Wilshire Convalescent Center,"Los Angeles, CA",5,1,0,2020-05-12
+71,County Villa Rehabilitation Center,"Los Angeles, CA",6,11,1,2020-05-12
+72,Covina Rehabilitation Center,"Covina, CA",20,16,3,2020-05-12
+73,Culver West Health Center,"Los Angeles, CA",15,37,2,2020-05-12
+74,Del Rio Convalescent Center,"Bell Gardens, CA",5,24,3,2020-05-12
+75,Del Rio Gardens Care Center,"Bell Gardens, CA",9,19,3,2020-05-12
+76,Downey Post Acute,"Downey, CA",15,36,3,2020-05-12
+77,Driftwood Healthcare Center,"Torrance, CA",4,1,1,2020-05-12
+78,East Los Angeles Doctors Hospital D/P SNF,"Los Angeles, CA",3,1,0,2020-05-12
+79,Eisenberg Village,"Reseda, CA",15,10,3,2020-05-12
+80,El Encanto Healthcare And Habilitation Center,"City Of Industry, CA",2,10,0,2020-05-12
+81,El Rancho Vista Health Care Center,"Pico Rivera, CA",18,43,8,2020-05-12
+82,Ellison John Transitional Care Ctr. SNF,"Lancaster, CA",1,1,1,2020-05-12
+83,Elmcrest Care Center,"El Monte, CA",1,6,1,2020-05-12
+84,Elysium Residential Care,"Granada Hills, CA",0,3,2,2020-05-12
+85,Emerald Terrace Convalescent Hospital,"Los Angeles, CA",2,2,1,2020-05-12
+86,Encampment #1 - Van Nuys,"Van Nuys, CA",0,3,1,2020-05-12
+87,Evening Grace Residential Facility For Elderly LLC,"Sherwood Forest, CA",2,1,0,2020-05-12
+88,"FCI, Terminal Island","San Pedro, CA",12,658,7,2020-05-12
+89,Fallbrook Glen West Hills Asstd Living,"West Hills, CA",5,17,2,2020-05-12
+90,First To Serve - Coronado,"Los Angeles, CA",0,2,0,2020-05-12
+91,Flower Villa Convalescent,"Los Angeles, CA",14,8,2,2020-05-12
+92,Four Seasons Assisted Living Center,"Valley Village, CA",0,1,0,2020-05-12
+93,"Four Seasons Healthcare & Wellness Center, LP","Valley Village, CA",36,70,3,2020-05-12
+94,Garden Crest Assisted Living,"Los Angeles, CA",3,2,0,2020-05-12
+95,Garden Crest Rehabilitation Center,"Los Angeles, CA",36,24,10,2020-05-12
+96,Gardena Convalescent Center,"Gardena, CA",18,34,7,2020-05-12
+97,Glendale Healthcare Center,"Glendale, CA",8,9,3,2020-05-12
+98,Glendale Post Acute Care Center,"Glendale, CA",23,48,7,2020-05-12
+99,Glendora Grand Convalescent Hospital,"Glendora, CA",2,2,0,2020-05-12
+100,Glenhaven Healthcare,"Glendale, CA",15,18,5,2020-05-12
+101,Glenoaks Convalescent Hospital,"Glendale, CA",6,17,6,2020-05-12
+102,Golden Assisted Living,"Sylmar, CA",1,1,0,2020-05-12
+103,Granada Hills Recreation Center,"Granada Hills, CA",1,1,0,2020-05-12
+104,Granada Post Acute,"Lynwood, CA",11,25,2,2020-05-12
+105,Grancell Village of The Jewish Homes For The Aging,"Reseda, CA",4,1,0,2020-05-12
+106,Grand Park Convalescent Hospital,"Los Angeles, CA",30,59,24,2020-05-12
+107,Grandview Retirement Center,"Los Angeles, CA",5,7,1,2020-05-12
+108,Green Acres Healthcare Center,"Rosemead, CA",10,7,1,2020-05-12
+109,Green Meadows Recreation Center,"Los Angeles, CA",0,2,0,2020-05-12
+110,Griffith Park Health Care Center,"Glendale, CA",1,2,0,2020-05-12
+111,Grupo Buscando Fortaleza,"Los Angeles, CA",0,2,0,2020-05-12
+112,Guardian Rehabilitation Hospital,"Los Angeles, CA",0,1,0,2020-05-12
+113,Harbor Post Acute Care Center,"Torrance, CA",10,25,6,2020-05-12
+114,Hawthorne Healthcare & Wellness Centre,"Hawthorne, CA",8,22,2,2020-05-12
+115,Heritage Rehabilitation Center,"Torrance, CA",2,1,0,2020-05-12
+116,Highland Park Skilled Nursing & Wellness Centre,"Los Angeles, CA",2,1,0,2020-05-12
+117,Hollywood Premier Healthcare Center,"Los Angeles, CA",36,66,14,2020-05-12
+118,Huntington Drive Health & Rehabitition Center,"Arcadia, CA",1,1,0,2020-05-12
+119,Hyde Park Convalescent Hospital,"Los Angeles, CA",3,2,0,2020-05-12
+120,Idle Acre Sanitarium & Convalescent Hospital,"El Monte, CA",5,11,2,2020-05-12
+121,Iglesia Evangelica Emanuel,"Los Angeles, CA",0,1,0,2020-05-12
+122,Illumination Foundation Recuperative Care,"Santa Fe Springs, CA",1,10,1,2020-05-12
+123,Imperial Crest Health Care Center,"Hawthorne, CA",2,7,2,2020-05-12
+124,Imperial Healthcare Center,"La Mirada, CA",8,14,2,2020-05-12
+125,Infinity Care East Los Angeles,"Los Angeles, CA",2,2,1,2020-05-12
+126,Inglewood Health Care Center,"Inglewood, CA",12,36,8,2020-05-12
+127,Inland Valley Care And Rehabilitation Center,"Pomona, CA",1,2,0,2020-05-12
+128,Joyce Eisenberg-Keefer Medical Center,"Reseda, CA",6,1,0,2020-05-12
+129,Kei Ai Los Angeles Healthcare Center,"Los Angeles, CA",19,59,12,2020-05-12
+130,Kei-Ai South Bay Healthcare Center,"Gardena, CA",40,43,13,2020-05-12
+131,Kennedy Post Acute Care Center,"Los Angeles, CA",1,1,0,2020-05-12
+132,Kindred Hospital South Bay,"Gardena, CA",8,13,1,2020-05-12
+133,Kingsley Manor Care Center,"Los Angeles, CA",20,17,3,2020-05-12
+134,La Brea Rehabilitation Center,"Los Angeles, CA",13,24,5,2020-05-12
+135,La Crescenta Healthcare Center,"La Crescenta, CA",12,7,2,2020-05-12
+136,La Family Housing,"North Hollywood, CA",0,10,0,2020-05-12
+137,La Paz Geropsychiatric Center,"Paramount, CA",0,2,0,2020-05-12
+138,Lake Balboa Care Center,"Van Nuys, CA",4,6,0,2020-05-12
+139,Lakeview Terrace,"Los Angeles, CA",7,20,3,2020-05-12
+140,Lakewood Healthcare Center,"Downey, CA",7,1,0,2020-05-12
+141,Lakewood Park Manor,"Downey, CA",1,9,2,2020-05-12
+142,Landmark Medical Center,"Pomona, CA",8,3,0,2020-05-12
+143,"Lawndale Healthcare & Wellness Centre, LLC","Lawndale, CA",1,1,0,2020-05-12
+144,Leisure Glen Post Acute Care Center,"Glendale, CA",11,14,0,2020-05-12
+145,Leisure Vale Retirement Home,"Glendale, CA",0,1,0,2020-05-12
+146,Little Sisters of The Poor,"San Pedro, CA",0,2,0,2020-05-12
+147,Longwood Manor Convalescent Hospital,"Los Angeles, CA",10,16,0,2020-05-12
+148,Los Angeles Mission (Men's Shelter),"Los Angeles, CA",0,13,0,2020-05-12
+149,Los Angeles Mission - Anne Douglas Center,"Los Angeles, CA",0,1,0,2020-05-12
+150,Lynwood Healthcare Center,"Lynwood, CA",29,35,12,2020-05-12
+151,Maclay Healthcare Center,"Sylmar, CA",15,13,1,2020-05-12
+152,Magnolia Gardens Conv. Hosp.,"Granada Hills, CA",7,10,0,2020-05-12
+153,Maple Health Care Center,"Los Angeles, CA",8,29,0,2020-05-12
+154,Marina Pointe Healthcare & Subacute,"Culver City, CA",2,28,1,2020-05-12
+155,Mayflower Gardens Convalescent Hospital,"Lancaster, CA",11,18,8,2020-05-12
+156,Maywood Skilled Nursing & Wellness Centre,"Maywood, CA",9,10,1,2020-05-12
+157,Mcintyre House,"Los Angeles, CA",1,5,0,2020-05-12
+158,Meadowbrook Senior Living Agoura Hills,"Agoura Hills, CA",5,1,0,2020-05-12
+159,Men's Central Jail,"Los Angeles, CA",28,91,0,2020-05-12
+160,Mid Wilshire Health Care Center,"Los Angeles, CA",9,38,9,2020-05-12
+161,Monrovia Gardens Healthcare Center,"Monrovia, CA",15,49,6,2020-05-12
+162,Monrovia Memorial Hospital,"Monrovia, CA",8,8,0,2020-05-12
+163,Monte Cedro Retirement Comm,"Altadena, CA",2,1,1,2020-05-12
+164,Monte Vista Healthcare Center,"Duarte, CA",23,38,8,2020-05-12
+165,Montebello Care Center,"Montebello, CA",0,4,1,2020-05-12
+166,"Montecito Heights Healthcare & Wellness Centre, LP","Los Angeles, CA",5,1,0,2020-05-12
+167,Montrose Healthcare Center,"Montrose, CA",21,34,10,2020-05-12
+168,Montrose Springs Skilled Nursing & Wellness Center,"Montrose, CA",6,13,1,2020-05-12
+169,Motion Picture & Television Fund,"Woodland Hills, CA",14,17,6,2020-05-12
+170,Mountain View Convalescent Hospital,"Sylmar, CA",8,10,3,2020-05-12
+171,Mugunghwa Silvertown Assisted Living,"Los Angeles, CA",2,3,2,2020-05-12
+172,National Support Services Home II,"North Hills, CA",1,1,0,2020-05-12
+173,New Vista Nursing And Rehabilitation Center,"Sunland, CA",37,45,8,2020-05-12
+174,Normandale Recreation Center,"Torrance, CA",0,1,0,2020-05-12
+175,Normandie Place,"Gardena, CA",1,1,0,2020-05-12
+176,North County Correctional Facility,"Saugus, CA",4,166,0,2020-05-12
+177,North Valley Nursing Center,"Tujunga, CA",0,1,0,2020-05-12
+178,Northridge Care Center,"Reseda, CA",6,7,0,2020-05-12
+179,Norwalk Meadows Nursing Center,"Norwalk, CA",4,2,1,2020-05-12
+180,Norwalk Skilled Nursing,"Norwalk, CA",3,1,0,2020-05-12
+181,Oakmont of Santa Clarita,"Santa Clarita, CA",0,16,4,2020-05-12
+182,Oakmont of Valencia,"Santa Clarita, CA",6,13,5,2020-05-12
+183,Oakpark Healthcare Center,"Tujunga, CA",16,14,6,2020-05-12
+184,Ocean Pointe Healthcare Center,"Santa Monica, CA",9,30,3,2020-05-12
+185,Olympia Convalescent Hospital,"Los Angeles, CA",17,47,15,2020-05-12
+186,Osage Healthcare & Wellness Centre,"Inglewood, CA",6,23,3,2020-05-12
+187,Pacific Sunrise Home,"Rancho Palos Verdes, CA",1,2,2,2020-05-12
+188,Pacifica Senior Living,"Northridge, CA",18,10,5,2020-05-12
+189,Palazzo Post Acute,"Los Angeles, CA",12,20,8,2020-05-12
+190,Panorama Gardens Nursing And Rehab Ctr,"Panorama City, CA",1,3,0,2020-05-12
+191,Park Paseo Independent Living,"Glendale, CA",0,4,1,2020-05-12
+192,Pasadena Park Healthcare & Wellness Center,"Pasadena, CA",8,8,2,2020-05-12
+193,Penn Mar Therapeutic Center,"El Monte, CA",6,2,0,2020-05-12
+194,Pitchess Detention Facility,"Castaic, CA",13,21,0,2020-05-12
+195,Playa Del Rey Center,"Playa Del Rey, CA",18,34,7,2020-05-12
+196,Primrose Post-Acute,"Inglewood, CA",19,24,2,2020-05-12
+197,Private Boardinghouse,"Pacoima, CA",0,6,0,2020-05-12
+198,Ramona Nursing And Rehabilitation Center,"El Monte, CA",3,4,0,2020-05-12
+199,Rinaldi Convalescent Hospital,"Granada Hills, CA",5,5,1,2020-05-12
+200,Rio Hondo Subacute & Nursing Center,"Montebello, CA",23,54,5,2020-05-12
+201,Riviera Healthcare Center,"Pico Rivera, CA",22,49,4,2020-05-12
+202,Rosecrans Villa,"Hawthorne, CA",1,11,0,2020-05-12
+203,Royal Gardens Healthcare,"Alhambra, CA",5,1,0,2020-05-12
+204,Royal Vista Care Center,"San Gabriel, CA",8,10,0,2020-05-12
+205,Royalwood Care Center,"Torrance, CA",28,49,14,2020-05-12
+206,Salvation Army Hope Harbor,"Los Angeles, CA",0,2,0,2020-05-12
+207,San Fernando Post Acute Hospital,"Sylmar, CA",2,1,0,2020-05-12
+208,Santa Anita Convalescent Hospital,"Temple City, CA",19,43,10,2020-05-12
+209,Santa Fe Skilled Nursing Facility,"El Monte, CA",4,13,0,2020-05-12
+210,Santa Monica Convalescent Center II,"Santa Monica, CA",1,1,0,2020-05-12
+211,Santa Teresita Manor,"Duarte, CA",12,16,4,2020-05-12
+212,Sepulveda Residential,"Van Nuys, CA",2,1,0,2020-05-12
+213,Shadow Hills Convalescent Hospital,"Sunland, CA",10,6,5,2020-05-12
+214,Sherman Oaks Health & Rehabilitation Center,"Sherman Oaks, CA",8,11,2,2020-05-12
+215,Silverado Beverly Place,"Los Angeles, CA",30,46,13,2020-05-12
+216,Silverado Calabasas Assisted Living,"Calabasas, CA",6,38,1,2020-05-12
+217,Skyline Healthcare Center-Los Angeles,"Los Angeles, CA",5,1,0,2020-05-12
+218,Solheim Senior Community,"Los Angeles, CA",5,2,0,2020-05-12
+219,South Pasadena Care Center,"South Pasadena, CA",29,78,14,2020-05-12
+220,Southern California Hospital Culver City ICP,"Culver City, CA",3,4,0,2020-05-12
+221,Southland Care Center,"Norwalk, CA",1,1,0,2020-05-12
+222,Specialized Residential - Hargis,"Los Angeles, CA",3,1,0,2020-05-12
+223,Starview Adolescent Center,"Torrance, CA",27,7,0,2020-05-12
+224,Stoney Point Healthcare Center,"Chatsworth, CA",27,29,9,2020-05-12
+225,Studio City Rehabilitation Center,"Studio City, CA",14,34,3,2020-05-12
+226,Sunnyview Care Center,"Los Angeles, CA",0,1,1,2020-05-12
+227,Sunray Health Care Center.,"Los Angeles, CA",14,31,0,2020-05-12
+228,Sunrise Assisted Living Studio City,"Studio City, CA",2,2,,2020-05-12
+229,Sunrise Villa Culver City,"Los Angeles, CA",9,8,3,2020-05-12
+230,Sylmar Health And Rehab Center,"Sylmar, CA",20,40,0,2020-05-12
+231,The Earlwood,"Torrance, CA",23,33,8,2020-05-12
+232,The Grove Post-Acute Care Center,"Sylmar, CA",17,43,12,2020-05-12
+233,The Heights At Burbank,"Burbank, CA",2,4,1,2020-05-12
+234,The Meadows Post Acute,"Panorama City, CA",19,34,9,2020-05-12
+235,The Midnight Mission,"Los Angeles, CA",0,4,0,2020-05-12
+236,The Orchard Post Acute Care,"Whittier, CA",6,19,2,2020-05-12
+237,The Rehabilitation Center of Santa Monica,"Santa Monica, CA",16,34,11,2020-05-12
+238,The Rehabilitation Centre of Beverly Hills,"Los Angeles, CA",27,29,2,2020-05-12
+239,Toluca Congregate Living Health Facility (CLHF),"Valley Glen, CA",2,2,0,2020-05-12
+240,"Torrance Care Center West, Inc","Torrance, CA",17,54,13,2020-05-12
+241,Twin Towers Correctional Facility,"Los Angeles, CA",55,45,1,2020-05-12
+242,UCP Longo House,"Chatsworth, CA",1,1,0,2020-05-12
+243,Union Rescue Mission,"Los Angeles, CA",7,95,1,2020-05-12
+244,University Park Healthcare Center,"Los Angeles, CA",0,1,0,2020-05-12
+245,Valley Grace Home,"North Hills, CA",0,1,0,2020-05-12
+246,Valley Palms Care Center,"North Hollywood, CA",10,23,0,2020-05-12
+247,"Valley Vista Nursing And Transitional Care, LLC","North Hollywood, CA",0,1,0,2020-05-12
+248,Van Nuys Health Care Center,"Van Nuys, CA",0,1,0,2020-05-12
+249,Vernon Healthcare Center,"Los Angeles, CA",0,1,1,2020-05-12
+250,Veterans Home of California - West Los Angeles,"Los Angeles, CA",2,2,1,2020-05-12
+251,View Park Convalescent Center,"Los Angeles, CA",8,16,2,2020-05-12
+252,Villa Scalabrini,"Sun Valley, CA",10,7,0,2020-05-12
+253,Virgil Convalescent Hospital,"Los Angeles, CA",19,20,14,2020-05-12
+254,Virginia House,"Tarzana, CA",2,2,0,2020-05-12
+255,Vista Del Sol Care Center,"Los Angeles, CA",0,1,0,2020-05-12
+256,Vista Veranda,"Lynwood, CA",0,1,0,2020-05-12
+257,Volunteers of America - T House,"Los Angeles, CA",0,1,0,2020-05-12
+258,Weingart Center AB109,"Los Angeles, CA",1,5,0,2020-05-12
+259,West Haven Healthcare Ctr,"West Covina, CA",3,1,0,2020-05-12
+260,West Hills Health And Rehab,"Canoga Park, CA",35,74,14,2020-05-12
+261,West Valley Post Acute,"West Hills, CA",10,36,1,2020-05-12
+262,Whittier Hills Health Care Center,"Whittier, CA",6,9,2,2020-05-12
+263,Whittier Pacific Care Center,"Whittier, CA",2,16,0,2020-05-12
+264,Windsor Care Center of Cheviot Hills,"Los Angeles, CA",15,52,4,2020-05-12
+265,Windsor Gardens Convalescent Center of Hawthorne,"Hawthorne, CA",0,1,0,2020-05-12
+266,Windsor Terrace Healthcare Center,"Van Nuys, CA",22,37,7,2020-05-12
+267,Woodland Care Center,"Reseda, CA",16,6,1,2020-05-12
+Total,,,2527,5206,0,2020-05-12
+1,A Bridge Home - St. Andrew's,"Los Angeles, CA",0,1,0,2020-05-13
+2,A Bridge Home- Casa Azul,"Los Angeles, CA",0,2,0,2020-05-13
+3,Affinity Healthcare Center,"Paramount, CA",32,33,5,2020-05-13
+4,Alameda Care Center,"Burbank, CA",36,49,16,2020-05-13
+5,Alcott Rehabilitation Hospital,"Los Angeles, CA",23,28,14,2020-05-13
+6,Alden Terrace Convalescent Hospital,"Los Angeles, CA",30,88,21,2020-05-13
+7,Alexandria Care Center,"Los Angeles, CA",23,37,13,2020-05-13
+8,"Alhambra Healthcare & Wellness Centre, LP","Alhambra, CA",3,2,0,2020-05-13
+9,Anl Facility Home Inc.,"Norwalk, CA",1,2,1,2020-05-13
+10,Ararat Assisted Living,"Mission Hills, CA",7,9,4,2020-05-13
+11,Ararat Convalescent Hospital,"Eagle Rock, CA",16,6,3,2020-05-13
+12,Arbor Glen Care Center,"Glendora, CA",9,51,1,2020-05-13
+13,Arc Board And Care,"La Mirada, CA",0,1,0,2020-05-13
+14,Arcadia Gardens Retirement Hotel,"Arcadia, CA",4,1,0,2020-05-13
+15,Astoria Nursing And Rehab Center,"Sylmar, CA",44,65,3,2020-05-13
+16,Atria Pacific Palisades,"Pacific Palisades, CA",2,1,1,2020-05-13
+17,Atria Santa Clarita,"Santa Clarita, CA",2,2,0,2020-05-13
+18,Autumn Hills Health Care Center,"Glendale, CA",24,53,5,2020-05-13
+19,Auxiliary Residential Care Inc.,"Los Angeles, CA",1,1,1,2020-05-13
+20,Avantgarde Senior Living And Memory Care,"Tarzana, CA",18,6,2,2020-05-13
+21,Baldwin Gardens Nursing Center,"Temple City, CA",6,13,0,2020-05-13
+22,Barry J. Nidorf Juvenile Hall,"Sylmar, CA",12,1,0,2020-05-13
+23,Beachwood Post Acute & Rehab,"Santa Monica, CA",15,23,5,2020-05-13
+24,Bel Tooren Villa Convalescent Hospital,"Bellflower, CA",4,33,1,2020-05-13
+25,Bell Convalescent Hospital,"Bell, CA",26,51,20,2020-05-13
+26,Belmont Village Rancho Palos Verdes,"Rancho Palos Verdes, CA",0,2,1,2020-05-13
+27,Belmont Village of Encino,"Sherman Oaks, CA",22,20,5,2020-05-13
+28,Belmont Village-Calabasas,"Calabasas, CA",0,2,0,2020-05-13
+29,Beverly Hills Carmel South,"Los Angeles, CA",8,15,6,2020-05-13
+30,Beverly Hills Gardens Board And Care,"Los Angeles, CA",3,5,2,2020-05-13
+31,Bonnie Brae Convalescent Hospital,"Los Angeles, CA",14,16,5,2020-05-13
+32,Brentwood Healthcare Center,"Santa Monica, CA",7,3,0,2020-05-13
+33,Bridges To Recovery,"Los Angeles, CA",2,1,0,2020-05-13
+34,Brookdale Central Senior Living-Whittier,"Whittier, CA",1,3,0,2020-05-13
+35,Brookdale Monrovia,"Monrovia, CA",1,1,1,2020-05-13
+36,Brookdale Northridge Memory Care,"Northridge, CA",3,18,10,2020-05-13
+37,Brookdale Ocean House Assisted Living,"Santa Monica, CA",0,1,0,2020-05-13
+38,Brookfield Healthcare Center,"Downey, CA",3,37,3,2020-05-13
+39,Buena Ventura Post Acute Care Center,"Los Angeles, CA",21,53,12,2020-05-13
+40,Burbank Healthcare And Rehabilitation Center,"Burbank, CA",29,53,11,2020-05-13
+41,Burlington Convalescent Hospital,"Los Angeles, CA",3,1,0,2020-05-13
+42,CPES California Napa Street,"North Hills, CA",0,1,0,2020-05-13
+43,California Healthcare And Rehabilitation Center,"Van Nuys, CA",35,23,6,2020-05-13
+44,California Post Acute Care,"Lynwood, CA",11,16,2,2020-05-13
+45,California Post Acute Convalescent Center,"Los Angeles, CA",8,8,0,2020-05-13
+46,"California State Prison, Lancaster","Lancaster, CA",42,112,0,2020-05-13
+47,Canyon Oaks Nursing And Rehabilitation Center,"Canoga Park, CA",4,1,1,2020-05-13
+48,Carson Senior Assisted Living,"Carson, CA",6,3,0,2020-05-13
+49,Casa De La Victoria,"Lancaster, CA",1,2,0,2020-05-13
+50,Casitas Care Center,"Granada Hills, CA",5,10,0,2020-05-13
+51,Cedars Assisted Living,"Northridge, CA",3,5,0,2020-05-13
+52,Centinela Skilled Nursing & Wellness Centre West,"Inglewood, CA",13,11,8,2020-05-13
+53,Central Juvenile Hall,"Los Angeles, CA",0,2,0,2020-05-13
+54,Century Regional Detention Facility,"Lynwood, CA",5,4,0,2020-05-13
+55,"Century Villa, Inc. Skilled Nursing Facility","Inglewood, CA",19,32,9,2020-05-13
+56,Chandler Convalescent Hospital,"Glendale, CA",5,15,3,2020-05-13
+57,Chatsworth Park Care Center,"Chatsworth, CA",15,15,3,2020-05-13
+58,City View Assisted Living,"Los Angeles, CA",2,9,1,2020-05-13
+59,College Hospital,"Cerritos, CA",6,3,0,2020-05-13
+60,Colonial Gardens Nursing Home,"Pico Rivera, CA",10,38,2,2020-05-13
+61,Community Care Center Inc.,"Duarte, CA",1,1,0,2020-05-13
+62,Coral Oaks Care Living,"Lynwood, CA",0,5,0,2020-05-13
+63,"Corbin Congregate Home, Inc","Northridge, CA",3,4,0,2020-05-13
+64,Country Villa East Nursing Center,"Los Angeles, CA",19,35,8,2020-05-13
+65,Country Villa Mar Vista Nursing Center,"Los Angeles, CA",11,5,1,2020-05-13
+66,Country Villa North Convalescent Center,"Los Angeles, CA",7,5,3,2020-05-13
+67,Country Villa Pavilion Nursing Center,"Los Angeles, CA",21,57,8,2020-05-13
+68,Country Villa Sheraton Nursing And Rehab Center,"Sepulveda, CA",7,13,3,2020-05-13
+69,Country Villa Westwood Convalescent Center,"Los Angeles, CA",7,1,0,2020-05-13
+70,Country Villa Wilshire Convalescent Center,"Los Angeles, CA",5,1,0,2020-05-13
+71,County Villa Rehabilitation Center,"Los Angeles, CA",6,14,1,2020-05-13
+72,Covina Rehabilitation Center,"Covina, CA",20,16,3,2020-05-13
+73,Culver West Health Center,"Los Angeles, CA",15,37,3,2020-05-13
+74,Del Rio Convalescent Center,"Bell Gardens, CA",5,25,3,2020-05-13
+75,Del Rio Gardens Care Center,"Bell Gardens, CA",9,19,3,2020-05-13
+76,Downey Post Acute,"Downey, CA",15,36,3,2020-05-13
+77,Driftwood Healthcare Center,"Torrance, CA",4,1,1,2020-05-13
+78,East Los Angeles Doctors Hospital D/P SNF,"Los Angeles, CA",3,1,0,2020-05-13
+79,Eisenberg Village,"Reseda, CA",15,11,3,2020-05-13
+80,El Encanto Healthcare And Habilitation Center,"City Of Industry, CA",3,10,2,2020-05-13
+81,El Rancho Vista Health Care Center,"Pico Rivera, CA",18,43,8,2020-05-13
+82,Ellison John Transitional Care Ctr. SNF,"Lancaster, CA",1,1,1,2020-05-13
+83,Elmcrest Care Center,"El Monte, CA",1,6,1,2020-05-13
+84,Elysium Residential Care,"Granada Hills, CA",0,3,2,2020-05-13
+85,Emerald Terrace Convalescent Hospital,"Los Angeles, CA",2,2,1,2020-05-13
+86,Encampment #1 - Van Nuys,"Van Nuys, CA",0,3,1,2020-05-13
+87,Evening Grace Residential Facility For Elderly LLC,"Sherwood Forest, CA",2,1,0,2020-05-13
+88,"FCI, Terminal Island","San Pedro, CA",12,658,7,2020-05-13
+89,Fallbrook Glen West Hills Asstd Living,"West Hills, CA",5,17,2,2020-05-13
+90,First To Serve - Coronado,"Los Angeles, CA",0,2,0,2020-05-13
+91,Flower Villa Convalescent,"Los Angeles, CA",14,8,2,2020-05-13
+92,Four Seasons Assisted Living Center,"Valley Village, CA",0,1,0,2020-05-13
+93,"Four Seasons Healthcare & Wellness Center, LP","Valley Village, CA",38,70,4,2020-05-13
+94,Garden Crest Assisted Living,"Los Angeles, CA",3,2,0,2020-05-13
+95,Garden Crest Rehabilitation Center,"Los Angeles, CA",36,24,10,2020-05-13
+96,Gardena Convalescent Center,"Gardena, CA",18,34,7,2020-05-13
+97,Glendale Healthcare Center,"Glendale, CA",8,9,3,2020-05-13
+98,Glendale Post Acute Care Center,"Glendale, CA",23,48,7,2020-05-13
+99,Glendora Grand Convalescent Hospital,"Glendora, CA",2,2,0,2020-05-13
+100,Glenhaven Healthcare,"Glendale, CA",15,18,5,2020-05-13
+101,Glenoaks Convalescent Hospital,"Glendale, CA",6,24,7,2020-05-13
+102,Golden Assisted Living,"Sylmar, CA",1,1,0,2020-05-13
+103,Granada Hills Recreation Center,"Granada Hills, CA",1,1,0,2020-05-13
+104,Granada Post Acute,"Lynwood, CA",11,26,2,2020-05-13
+105,Grancell Village of The Jewish Homes For The Aging,"Reseda, CA",4,1,0,2020-05-13
+106,Grand Park Convalescent Hospital,"Los Angeles, CA",30,59,24,2020-05-13
+107,Grandview Retirement Center,"Los Angeles, CA",5,15,1,2020-05-13
+108,Green Acres Healthcare Center,"Rosemead, CA",11,7,1,2020-05-13
+109,Green Meadows Recreation Center,"Los Angeles, CA",0,2,0,2020-05-13
+110,Griffith Park Health Care Center,"Glendale, CA",1,2,0,2020-05-13
+111,Grupo Buscando Fortaleza,"Los Angeles, CA",0,2,0,2020-05-13
+112,Guardian Rehabilitation Hospital,"Los Angeles, CA",0,1,0,2020-05-13
+113,Harbor Post Acute Care Center,"Torrance, CA",10,30,6,2020-05-13
+114,Hawthorne Healthcare & Wellness Centre,"Hawthorne, CA",8,26,2,2020-05-13
+115,Heritage Rehabilitation Center,"Torrance, CA",2,1,0,2020-05-13
+116,Highland Park Skilled Nursing & Wellness Centre,"Los Angeles, CA",2,1,0,2020-05-13
+117,Hollywood Premier Healthcare Center,"Los Angeles, CA",36,66,14,2020-05-13
+118,Huntington Drive Health & Rehabitition Center,"Arcadia, CA",1,1,0,2020-05-13
+119,Hyde Park Convalescent Hospital,"Los Angeles, CA",3,4,0,2020-05-13
+120,Idle Acre Sanitarium & Convalescent Hospital,"El Monte, CA",5,11,2,2020-05-13
+121,Iglesia Evangelica Emanuel,"Los Angeles, CA",0,1,0,2020-05-13
+122,Illumination Foundation Recuperative Care,"Santa Fe Springs, CA",1,10,1,2020-05-13
+123,Imperial Crest Health Care Center,"Hawthorne, CA",2,7,2,2020-05-13
+124,Imperial Healthcare Center,"La Mirada, CA",8,14,2,2020-05-13
+125,Infinity Care East Los Angeles,"Los Angeles, CA",2,2,1,2020-05-13
+126,Inglewood Health Care Center,"Inglewood, CA",12,36,8,2020-05-13
+127,Inland Valley Care And Rehabilitation Center,"Pomona, CA",1,2,0,2020-05-13
+128,Joyce Eisenberg-Keefer Medical Center,"Reseda, CA",6,1,0,2020-05-13
+129,Kei Ai Los Angeles Healthcare Center,"Los Angeles, CA",19,59,12,2020-05-13
+130,Kei-Ai South Bay Healthcare Center,"Gardena, CA",40,43,13,2020-05-13
+131,Kennedy Post Acute Care Center,"Los Angeles, CA",1,1,0,2020-05-13
+132,Kindred Hospital South Bay,"Gardena, CA",8,13,1,2020-05-13
+133,Kingsley Manor Care Center,"Los Angeles, CA",20,19,3,2020-05-13
+134,La Brea Rehabilitation Center,"Los Angeles, CA",13,25,6,2020-05-13
+135,La Crescenta Healthcare Center,"La Crescenta, CA",12,7,2,2020-05-13
+136,La Family Housing,"North Hollywood, CA",0,10,0,2020-05-13
+137,La Paz Geropsychiatric Center,"Paramount, CA",0,2,0,2020-05-13
+138,Lake Balboa Care Center,"Van Nuys, CA",4,6,0,2020-05-13
+139,Lakeview Terrace,"Los Angeles, CA",7,20,4,2020-05-13
+140,Lakewood Healthcare Center,"Downey, CA",8,2,0,2020-05-13
+141,Lakewood Park Manor,"Downey, CA",1,10,2,2020-05-13
+142,Landmark Medical Center,"Pomona, CA",9,3,0,2020-05-13
+143,"Lawndale Healthcare & Wellness Centre, LLC","Lawndale, CA",1,1,0,2020-05-13
+144,Leisure Glen Post Acute Care Center,"Glendale, CA",13,16,1,2020-05-13
+145,Leisure Vale Retirement Home,"Glendale, CA",0,1,0,2020-05-13
+146,Little Company of Mary Subacute Care Center,"San Pedro, CA",0,1,0,2020-05-13
+147,Little Sisters of The Poor,"San Pedro, CA",0,2,0,2020-05-13
+148,Longwood Manor Convalescent Hospital,"Los Angeles, CA",10,18,0,2020-05-13
+149,Los Angeles Mission (Men's Shelter),"Los Angeles, CA",0,13,0,2020-05-13
+150,Los Angeles Mission - Anne Douglas Center,"Los Angeles, CA",0,1,0,2020-05-13
+151,Lynwood Healthcare Center,"Lynwood, CA",29,35,12,2020-05-13
+152,Maclay Healthcare Center,"Sylmar, CA",16,14,3,2020-05-13
+153,Magnolia Gardens Conv. Hosp.,"Granada Hills, CA",8,10,0,2020-05-13
+154,Maple Health Care Center,"Los Angeles, CA",8,29,0,2020-05-13
+155,Marina Pointe Healthcare & Subacute,"Culver City, CA",2,28,1,2020-05-13
+156,Mayflower Gardens Convalescent Hospital,"Lancaster, CA",11,18,8,2020-05-13
+157,Maywood Skilled Nursing & Wellness Centre,"Maywood, CA",11,11,1,2020-05-13
+158,Mcintyre House,"Los Angeles, CA",1,5,0,2020-05-13
+159,Meadowbrook Senior Living Agoura Hills,"Agoura Hills, CA",5,1,0,2020-05-13
+160,Men's Central Jail,"Los Angeles, CA",28,91,0,2020-05-13
+161,Mid Wilshire Health Care Center,"Los Angeles, CA",10,38,9,2020-05-13
+162,Monrovia Gardens Healthcare Center,"Monrovia, CA",15,49,6,2020-05-13
+163,Monrovia Memorial Hospital,"Monrovia, CA",11,7,1,2020-05-13
+164,Monte Cedro Retirement Comm,"Altadena, CA",2,1,1,2020-05-13
+165,Monte Vista Healthcare Center,"Duarte, CA",23,38,8,2020-05-13
+166,Montebello Care Center,"Montebello, CA",0,4,1,2020-05-13
+167,"Montecito Heights Healthcare & Wellness Centre, LP.","Los Angeles, CA",5,1,0,2020-05-13
+168,Montrose Healthcare Center,"Montrose, CA",21,34,10,2020-05-13
+169,Montrose Springs Skilled Nursing & Wellness Center,"Montrose, CA",6,13,1,2020-05-13
+170,Motion Picture & Television Fund,"Woodland Hills, CA",14,17,6,2020-05-13
+171,Mountain View Convalescent Hospital,"Sylmar, CA",8,18,3,2020-05-13
+172,Mugunghwa Silvertown Assisted Living,"Los Angeles, CA",2,3,2,2020-05-13
+173,National Support Services Home II,"North Hills, CA",1,1,0,2020-05-13
+174,New Vista Nursing And Rehabilitation Center,"Sunland, CA",37,45,8,2020-05-13
+175,Normandale Recreation Center,"Torrance, CA",0,1,0,2020-05-13
+176,Normandie Place,"Gardena, CA",1,1,0,2020-05-13
+177,North County Correctional Facility,"Saugus, CA",4,166,0,2020-05-13
+178,North Valley Nursing Center,"Tujunga, CA",0,1,0,2020-05-13
+179,Northridge Care Center,"Reseda, CA",6,8,1,2020-05-13
+180,Norwalk Meadows Nursing Center,"Norwalk, CA",4,2,1,2020-05-13
+181,Norwalk Skilled Nursing,"Norwalk, CA",3,1,0,2020-05-13
+182,Oakmont of Santa Clarita,"Santa Clarita, CA",0,16,4,2020-05-13
+183,Oakmont of Valencia,"Santa Clarita, CA",6,13,5,2020-05-13
+184,Oakpark Healthcare Center,"Tujunga, CA",16,14,6,2020-05-13
+185,Ocean Pointe Healthcare Center,"Santa Monica, CA",9,30,3,2020-05-13
+186,Olympia Convalescent Hospital,"Los Angeles, CA",18,61,16,2020-05-13
+187,Osage Healthcare & Wellness Centre,"Inglewood, CA",6,23,3,2020-05-13
+188,Pacific Sunrise Home,"Rancho Palos Verdes, CA",1,2,2,2020-05-13
+189,Pacifica Senior Living,"Northridge, CA",18,10,5,2020-05-13
+190,Palazzo Post Acute,"Los Angeles, CA",12,20,8,2020-05-13
+191,Panorama Gardens Nursing And Rehab Ctr,"Panorama City, CA",1,6,0,2020-05-13
+192,Park Paseo Independent Living,"Glendale, CA",0,4,1,2020-05-13
+193,Pasadena Park Healthcare & Wellness Center,"Pasadena, CA",8,8,2,2020-05-13
+194,Penn Mar Therapeutic Center,"El Monte, CA",6,3,0,2020-05-13
+195,Pitchess Detention Facility,"Castaic, CA",13,21,0,2020-05-13
+196,Playa Del Rey Center,"Playa Del Rey, CA",18,34,7,2020-05-13
+197,Primrose Post-Acute,"Inglewood, CA",19,24,2,2020-05-13
+198,Private Boardinghouse,"Pacoima, CA",0,6,0,2020-05-13
+199,Ramona Nursing And Rehabilitation Center,"El Monte, CA",3,6,0,2020-05-13
+200,Rinaldi Convalescent Hospital,"Granada Hills, CA",5,6,1,2020-05-13
+201,Rio Hondo Subacute & Nursing Center,"Montebello, CA",23,54,5,2020-05-13
+202,Riviera Healthcare Center,"Pico Rivera, CA",22,50,5,2020-05-13
+203,Rosecrans Villa,"Hawthorne, CA",1,11,0,2020-05-13
+204,Royal Gardens Healthcare,"Alhambra, CA",5,1,0,2020-05-13
+205,Royal Oaks Manor,"Duarte, CA",0,1,0,2020-05-13
+206,Royal Vista Care Center,"San Gabriel, CA",8,24,0,2020-05-13
+207,Royalwood Care Center,"Torrance, CA",28,59,14,2020-05-13
+208,Salvation Army Hope Harbor,"Los Angeles, CA",0,2,0,2020-05-13
+209,San Fernando Post Acute Hospital,"Sylmar, CA",2,1,0,2020-05-13
+210,Santa Anita Convalescent Hospital,"Temple City, CA",19,47,12,2020-05-13
+211,Santa Fe Skilled Nursing Facility,"El Monte, CA",4,13,0,2020-05-13
+212,Santa Monica Convalescent Center II,"Santa Monica, CA",1,1,0,2020-05-13
+213,Santa Teresita Manor,"Duarte, CA",12,16,4,2020-05-13
+214,Sepulveda Residential,"Van Nuys, CA",2,1,0,2020-05-13
+215,Shadow Hills Convalescent Hospital,"Sunland, CA",10,6,5,2020-05-13
+216,Sherman Oaks Health & Rehabilitation Center,"Sherman Oaks, CA",8,12,2,2020-05-13
+217,Silverado Beverly Place,"Los Angeles, CA",30,53,13,2020-05-13
+218,Silverado Calabasas Assisted Living,"Calabasas, CA",6,38,2,2020-05-13
+219,Skyline Healthcare Center-Los Angeles,"Los Angeles, CA",5,1,0,2020-05-13
+220,Solheim Senior Community (Assisted Living),"Los Angeles, CA",5,2,0,2020-05-13
+221,Solheim Senior Community (SNF),"Los Angeles, CA",10,5,0,2020-05-13
+222,South Pasadena Care Center,"South Pasadena, CA",29,78,15,2020-05-13
+223,Southern California Hospital Culver City ICP,"Culver City, CA",3,4,0,2020-05-13
+224,Southland Care Center,"Norwalk, CA",1,1,0,2020-05-13
+225,Specialized Residential - Hargis,"Los Angeles, CA",3,1,0,2020-05-13
+226,Starview Adolescent Center,"Torrance, CA",27,7,0,2020-05-13
+227,Stoney Point Healthcare Center,"Chatsworth, CA",27,31,9,2020-05-13
+228,Studio City Rehabilitation Center,"Studio City, CA",14,34,4,2020-05-13
+229,Sunnyview Care Center,"Los Angeles, CA",0,2,1,2020-05-13
+230,Sunray Health Care Center.,"Los Angeles, CA",14,31,13,2020-05-13
+231,Sunrise Assisted Living Studio City,"Studio City, CA",2,2,0,2020-05-13
+232,Sunrise Villa Culver City,"Los Angeles, CA",9,8,4,2020-05-13
+233,Sylmar Health And Rehab Center,"Sylmar, CA",20,40,0,2020-05-13
+234,The Earlwood,"Torrance, CA",23,33,8,2020-05-13
+235,The Grove Post-Acute Care Center,"Sylmar, CA",17,43,12,2020-05-13
+236,The Heights At Burbank,"Burbank, CA",2,4,1,2020-05-13
+237,The Meadows Post Acute,"Panorama City, CA",19,34,11,2020-05-13
+238,The Midnight Mission,"Los Angeles, CA",0,4,0,2020-05-13
+239,The Orchard Post Acute Care,"Whittier, CA",6,19,2,2020-05-13
+240,The Rehabilitation Center of Santa Monica,"Santa Monica, CA",16,34,11,2020-05-13
+241,The Rehabilitation Centre of Beverly Hills,"Los Angeles, CA",27,29,3,2020-05-13
+242,Toluca Congregate Living Health Facility (CLHF),"Valley Glen, CA",2,2,0,2020-05-13
+243,"Torrance Care Center West, Inc","Torrance, CA",17,54,13,2020-05-13
+244,Twin Towers Correctional Facility,"Los Angeles, CA",55,45,1,2020-05-13
+245,UCP Longo House,"Chatsworth, CA",1,1,0,2020-05-13
+246,Union Rescue Mission,"Los Angeles, CA",7,95,2,2020-05-13
+247,University Park Healthcare Center,"Los Angeles, CA",0,1,0,2020-05-13
+248,Valley Grace Home,"North Hills, CA",0,1,0,2020-05-13
+249,Valley Palms Care Center,"North Hollywood, CA",10,23,2,2020-05-13
+250,Valley Vista Nursing And Transitional Care LLC,"North Hollywood, CA",0,1,0,2020-05-13
+251,Van Nuys Health Care Center,"Van Nuys, CA",0,1,0,2020-05-13
+252,Vernon Healthcare Center,"Los Angeles, CA",0,1,1,2020-05-13
+253,Veterans Home of California - West Los Angeles,"Los Angeles, CA",2,2,1,2020-05-13
+254,View Park Convalescent Center,"Los Angeles, CA",8,16,3,2020-05-13
+255,Villa Scalabrini,"Sun Valley, CA",10,7,0,2020-05-13
+256,Virgil Convalescent Hospital,"Los Angeles, CA",19,20,14,2020-05-13
+257,Virginia House,"Tarzana, CA",2,2,0,2020-05-13
+258,Vista Del Sol Care Center,"Los Angeles, CA",1,2,0,2020-05-13
+259,Vista Veranda,"Lynwood, CA",0,1,0,2020-05-13
+260,Volunteers of America - T House,"Los Angeles, CA",0,1,0,2020-05-13
+261,Weingart Center AB109,"Los Angeles, CA",1,5,0,2020-05-13
+262,West Haven Healthcare Ctr,"West Covina, CA",3,1,0,2020-05-13
+263,West Hills Health And Rehab,"Canoga Park, CA",35,75,14,2020-05-13
+264,West Valley Post Acute,"West Hills, CA",10,36,1,2020-05-13
+265,Whittier Hills Health Care Center,"Whittier, CA",8,9,2,2020-05-13
+266,Whittier Pacific Care Center,"Whittier, CA",2,16,0,2020-05-13
+267,Windsor Care Center of Cheviot Hills,"Los Angeles, CA",18,52,4,2020-05-13
+268,Windsor Gardens Convalescent Center of Hawthorne,"Hawthorne, CA",0,1,0,2020-05-13
+269,Windsor Hall Care Home,"Los Angeles, CA",3,3,0,2020-05-13
+270,Windsor Terrace Healthcare Center,"Van Nuys, CA",22,37,7,2020-05-13
+271,Woodland Care Center,"Reseda, CA",16,6,1,2020-05-13
+Total,,,2517,5328,800,2020-05-13

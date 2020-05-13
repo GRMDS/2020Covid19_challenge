@@ -1,0 +1,683 @@
+Locations,Total Cases,Rate,collect_time
+City of Agoura Hills,32.0,153.23,2020-05-12
+City of Alhambra,130.0,149.9,2020-05-12
+City of Arcadia,59.0,102.16,2020-05-12
+City of Artesia,15.0,89.31,2020-05-12
+City of Avalon,0.0,0.0,2020-05-12
+City of Azusa,106.0,211.83,2020-05-12
+City of Baldwin Park,158.0,205.81,2020-05-12
+City of Bell,163.0,448.64,2020-05-12
+City of Bell Gardens,140.0,325.04,2020-05-12
+City of Bellflower,188.0,241.85,2020-05-12
+City of Beverly Hills,120.0,347.62,2020-05-12
+City of Bradbury,2.0,187.09,2020-05-12
+City of Burbank,314.0,292.97,2020-05-12
+City of Calabasas,48.0,197.34,2020-05-12
+City of Carson,311.0,331.39,2020-05-12
+City of Cerritos,74.0,147.8,2020-05-12
+City of Claremont,30.0,82.23,2020-05-12
+City of Commerce,21.0,160.69,2020-05-12
+City of Compton,295.0,295.28,2020-05-12
+City of Covina,112.0,228.42,2020-05-12
+City of Cudahy,99.0,406.62,2020-05-12
+City of Culver City,118.0,296.0,2020-05-12
+City of Diamond Bar,44.0,76.5,2020-05-12
+City of Downey,306.0,267.8,2020-05-12
+City of Duarte,91.0,413.34,2020-05-12
+City of El Monte,248.0,211.48,2020-05-12
+City of El Segundo,30.0,178.72,2020-05-12
+City of Gardena,191.0,311.53,2020-05-12
+City of Glendale,768.0,371.93,2020-05-12
+City of Glendora,76.0,144.04,2020-05-12
+City of Hawaiian Gardens,16.0,109.02,2020-05-12
+City of Hawthorne,261.0,293.96,2020-05-12
+City of Hermosa Beach,25.0,127.1,2020-05-12
+City of Hidden Hills,1.0,52.91,2020-05-12
+City of Huntington Park,217.0,364.8,2020-05-12
+City of Industry,11.0,2517.16,2020-05-12
+City of Inglewood,432.0,380.34,2020-05-12
+City of Irwindale,3.0,205.62,2020-05-12
+City of La Canada Flintridge,45.0,217.46,2020-05-12
+City of La Habra Heights,7.0,128.32,2020-05-12
+City of La Mirada,81.0,163.31,2020-05-12
+City of La Puente,58.0,142.52,2020-05-12
+City of La Verne,22.0,66.1,2020-05-12
+City of Lakewood,109.0,135.64,2020-05-12
+City of Lancaster*,425.0,263.04,2020-05-12
+City of Lawndale,81.0,240.97,2020-05-12
+City of Lomita,42.0,202.61,2020-05-12
+City of Lynwood*,284.0,394.19,2020-05-12
+City of Malibu,32.0,246.89,2020-05-12
+City of Manhattan Beach,71.0,197.23,2020-05-12
+City of Maywood,100.0,356.52,2020-05-12
+City of Monrovia,95.0,244.85,2020-05-12
+City of Montebello,219.0,340.19,2020-05-12
+City of Monterey Park,111.0,178.28,2020-05-12
+City of Norwalk,262.0,243.44,2020-05-12
+City of Palmdale,507.0,318.93,2020-05-12
+City of Palos Verdes Estates,40.0,295.81,2020-05-12
+City of Paramount,182.0,324.87,2020-05-12
+City of Pico Rivera,270.0,420.01,2020-05-12
+City of Pomona,270.0,173.15,2020-05-12
+City of Rancho Palos Verdes,75.0,175.45,2020-05-12
+City of Redondo Beach,120.0,174.68,2020-05-12
+City of Rolling Hills,2.0,103.09,2020-05-12
+City of Rolling Hills Estates,13.0,160.24,2020-05-12
+City of Rosemead,56.0,101.17,2020-05-12
+City of San Dimas,37.0,107.2,2020-05-12
+City of San Fernando,137.0,556.64,2020-05-12
+City of San Gabriel,57.0,139.18,2020-05-12
+City of San Marino,18.0,135.57,2020-05-12
+City of Santa Clarita,507.0,230.01,2020-05-12
+City of Santa Fe Springs,35.0,190.59,2020-05-12
+City of Santa Monica,212.0,229.32,2020-05-12
+City of Sierra Madre,7.0,63.7,2020-05-12
+City of Signal Hill,13.0,110.2,2020-05-12
+City of South El Monte,45.0,215.47,2020-05-12
+City of South Gate,321.0,327.03,2020-05-12
+City of South Pasadena,105.0,403.02,2020-05-12
+City of Temple City,88.0,241.39,2020-05-12
+City of Torrance,324.0,217.06,2020-05-12
+City of Vernon,1.0,478.47,2020-05-12
+City of Walnut,30.0,98.26,2020-05-12
+City of West Covina,181.0,167.23,2020-05-12
+City of West Hollywood,148.0,400.53,2020-05-12
+City of Westlake Village,6.0,71.77,2020-05-12
+City of Whittier,188.0,215.02,2020-05-12
+Los Angeles,16065.0,397.2,2020-05-12
+Los Angeles - Adams-Normandie,33.0,402.34,2020-05-12
+Los Angeles - Alsace,36.0,289.27,2020-05-12
+Los Angeles - Angeles National Forest,0.0,0.0,2020-05-12
+Los Angeles - Angelino Heights,11.0,439.65,2020-05-12
+Los Angeles - Arleta,172.0,500.44,2020-05-12
+Los Angeles - Atwater Village,38.0,259.1,2020-05-12
+Los Angeles - Baldwin Hills,97.0,311.65,2020-05-12
+Los Angeles - Bel Air,31.0,367.78,2020-05-12
+Los Angeles - Beverly Crest,35.0,279.44,2020-05-12
+Los Angeles - Beverlywood,34.0,258.1,2020-05-12
+Los Angeles - Boyle Heights*,337.0,387.87,2020-05-12
+Los Angeles - Brentwood,70.0,226.13,2020-05-12
+Los Angeles - Brookside,0.0,0.0,2020-05-12
+Los Angeles - Cadillac-Corning,22.0,308.95,2020-05-12
+Los Angeles - Canoga Park,384.0,588.15,2020-05-12
+Los Angeles - Carthay,69.0,480.4,2020-05-12
+Los Angeles - Central,201.0,515.49,2020-05-12
+Los Angeles - Century City,32.0,250.16,2020-05-12
+Los Angeles - Century Palms/Cove,132.0,390.93,2020-05-12
+Los Angeles - Chatsworth,131.0,353.47,2020-05-12
+Los Angeles - Cheviot Hills,18.0,196.27,2020-05-12
+Los Angeles - Chinatown,10.0,124.67,2020-05-12
+Los Angeles - Cloverdale/Cochran,46.0,316.09,2020-05-12
+Los Angeles - Country Club Park,77.0,508.15,2020-05-12
+Los Angeles - Crenshaw District,60.0,433.87,2020-05-12
+Los Angeles - Crestview,76.0,668.54,2020-05-12
+Los Angeles - Del Rey,58.0,193.75,2020-05-12
+Los Angeles - Downtown*,90.0,327.19,2020-05-12
+Los Angeles - Eagle Rock,129.0,325.85,2020-05-12
+Los Angeles - East Hollywood,172.0,587.29,2020-05-12
+Los Angeles - Echo Park,33.0,231.48,2020-05-12
+Los Angeles - El Sereno,124.0,296.59,2020-05-12
+Los Angeles - Elysian Park,12.0,210.08,2020-05-12
+Los Angeles - Elysian Valley,32.0,314.62,2020-05-12
+Los Angeles - Encino,102.0,225.8,2020-05-12
+Los Angeles - Exposition,6.0,180.4,2020-05-12
+Los Angeles - Exposition Park,175.0,389.61,2020-05-12
+Los Angeles - Faircrest Heights,4.0,111.11,2020-05-12
+Los Angeles - Figueroa Park Square,24.0,275.2,2020-05-12
+Los Angeles - Florence-Firestone,200.0,421.54,2020-05-12
+Los Angeles - Glassell Park,140.0,442.98,2020-05-12
+Los Angeles - Gramercy Place,43.0,399.48,2020-05-12
+Los Angeles - Granada Hills,178.0,305.89,2020-05-12
+Los Angeles - Green Meadows,94.0,437.11,2020-05-12
+Los Angeles - Hancock Park,72.0,422.56,2020-05-12
+Los Angeles - Harbor City,57.0,196.08,2020-05-12
+Los Angeles - Harbor Gateway,87.0,199.54,2020-05-12
+Los Angeles - Harbor Pines,6.0,249.07,2020-05-12
+Los Angeles - Harvard Heights,88.0,487.94,2020-05-12
+Los Angeles - Harvard Park,186.0,490.31,2020-05-12
+Los Angeles - Highland Park,120.0,247.98,2020-05-12
+Los Angeles - Historic Filipinotown,87.0,627.25,2020-05-12
+Los Angeles - Hollywood,220.0,322.33,2020-05-12
+Los Angeles - Hollywood Hills,73.0,248.01,2020-05-12
+Los Angeles - Hyde Park,95.0,332.85,2020-05-12
+Los Angeles - Jefferson Park,26.0,322.06,2020-05-12
+Los Angeles - Koreatown,196.0,379.16,2020-05-12
+Los Angeles - Lafayette Square,15.0,329.02,2020-05-12
+Los Angeles - Lake Balboa,138.0,326.97,2020-05-12
+Los Angeles - Lakeview Terrace,73.0,555.85,2020-05-12
+Los Angeles - Leimert Park,41.0,269.12,2020-05-12
+Los Angeles - Lincoln Heights,160.0,490.84,2020-05-12
+Los Angeles - Little Armenia,164.0,2043.61,2020-05-12
+Los Angeles - Little Bangladesh,92.0,324.6,2020-05-12
+Los Angeles - Little Tokyo,9.0,287.26,2020-05-12
+Los Angeles - Longwood,17.0,394.98,2020-05-12
+Los Angeles - Los Feliz,42.0,194.37,2020-05-12
+Los Angeles - Manchester Square,17.0,199.16,2020-05-12
+Los Angeles - Mandeville Canyon,1.0,32.01,2020-05-12
+Los Angeles - Mar Vista,64.0,150.69,2020-05-12
+Los Angeles - Marina Peninsula,9.0,206.42,2020-05-12
+Los Angeles - Melrose,421.0,541.86,2020-05-12
+Los Angeles - Mid-city,43.0,286.09,2020-05-12
+Los Angeles - Miracle Mile,38.0,211.29,2020-05-12
+Los Angeles - Mission Hills,99.0,410.38,2020-05-12
+Los Angeles - Mt. Washington,66.0,273.35,2020-05-12
+Los Angeles - North Hills,271.0,440.11,2020-05-12
+Los Angeles - North Hollywood,501.0,330.87,2020-05-12
+Los Angeles - Northridge,221.0,316.63,2020-05-12
+Los Angeles - Pacific Palisades,40.0,187.87,2020-05-12
+Los Angeles - Pacoima,442.0,574.18,2020-05-12
+Los Angeles - Palisades Highlands,3.0,78.0,2020-05-12
+Los Angeles - Palms,156.0,355.54,2020-05-12
+Los Angeles - Panorama City,466.0,619.27,2020-05-12
+Los Angeles - Park La Brea,13.0,95.73,2020-05-12
+Los Angeles - Pico-Union,379.0,905.79,2020-05-12
+Los Angeles - Playa Del Rey,1.0,31.29,2020-05-12
+Los Angeles - Playa Vista,20.0,182.7,2020-05-12
+Los Angeles - Porter Ranch,65.0,182.65,2020-05-12
+Los Angeles - Rancho Park,12.0,182.93,2020-05-12
+Los Angeles - Regent Square,3.0,107.91,2020-05-12
+Los Angeles - Reseda,337.0,439.85,2020-05-12
+Los Angeles - Reseda Ranch,23.0,496.12,2020-05-12
+Los Angeles - Reynier Village,9.0,212.87,2020-05-12
+Los Angeles - San Pedro*,753.0,964.91,2020-05-12
+Los Angeles - Shadow Hills,9.0,202.61,2020-05-12
+Los Angeles - Sherman Oaks,183.0,209.73,2020-05-12
+Los Angeles - Silverlake,145.0,328.92,2020-05-12
+Los Angeles - South Carthay,27.0,254.84,2020-05-12
+Los Angeles - South Park,182.0,479.44,2020-05-12
+Los Angeles - St Elmo Village,28.0,610.82,2020-05-12
+Los Angeles - Studio City,63.0,280.75,2020-05-12
+Los Angeles - Sun Valley,198.0,377.27,2020-05-12
+Los Angeles - Sunland,111.0,543.9,2020-05-12
+Los Angeles - Sycamore Square,1.0,154.56,2020-05-12
+Los Angeles - Sylmar*,516.0,626.23,2020-05-12
+Los Angeles - Tarzana,94.0,304.44,2020-05-12
+Los Angeles - Temple-Beaudry,212.0,536.95,2020-05-12
+Los Angeles - Thai Town,22.0,224.28,2020-05-12
+Los Angeles - Toluca Lake,14.0,160.85,2020-05-12
+Los Angeles - Toluca Terrace,3.0,229.71,2020-05-12
+Los Angeles - Toluca Woods,3.0,161.46,2020-05-12
+Los Angeles - Tujunga,93.0,334.41,2020-05-12
+Los Angeles - University Hills,8.0,233.3,2020-05-12
+Los Angeles - University Park,112.0,407.93,2020-05-12
+Los Angeles - Valley Glen,101.0,336.49,2020-05-12
+Los Angeles - Valley Village,171.0,691.75,2020-05-12
+Los Angeles - Van Nuys,472.0,506.47,2020-05-12
+Los Angeles - Venice,56.0,165.26,2020-05-12
+Los Angeles - Vermont Knolls,78.0,453.49,2020-05-12
+Los Angeles - Vermont Square,63.0,822.78,2020-05-12
+Los Angeles - Vermont Vista,182.0,441.9,2020-05-12
+Los Angeles - Vernon Central,327.0,628.87,2020-05-12
+Los Angeles - Victoria Park,43.0,511.97,2020-05-12
+Los Angeles - View Heights,8.0,216.57,2020-05-12
+Los Angeles - Watts,152.0,356.19,2020-05-12
+Los Angeles - Wellington Square,16.0,325.53,2020-05-12
+Los Angeles - West Adams,152.0,550.13,2020-05-12
+Los Angeles - West Hills,79.0,194.85,2020-05-12
+Los Angeles - West Los Angeles,64.0,170.05,2020-05-12
+Los Angeles - West Vernon,281.0,523.82,2020-05-12
+Los Angeles - Westchester,80.0,155.03,2020-05-12
+Los Angeles - Westlake,406.0,684.02,2020-05-12
+Los Angeles - Westwood,58.0,107.19,2020-05-12
+Los Angeles - Wholesale District*,267.0,739.02,2020-05-12
+Los Angeles - Wilmington,133.0,235.45,2020-05-12
+Los Angeles - Wilshire Center,155.0,308.95,2020-05-12
+Los Angeles - Winnetka,213.0,411.31,2020-05-12
+Los Angeles - Woodland Hills,132.0,193.96,2020-05-12
+Unincorporated - Acton,8.0,100.36,2020-05-12
+Unincorporated - Agua Dulce,3.0,72.15,2020-05-12
+Unincorporated - Altadena,105.0,240.72,2020-05-12
+Unincorporated - Anaverde,1.0,66.31,2020-05-12
+Unincorporated - Angeles National Forest,0.0,0.0,2020-05-12
+Unincorporated - Arcadia,4.0,50.12,2020-05-12
+Unincorporated - Athens-Westmont,141.0,332.22,2020-05-12
+Unincorporated - Athens Village,20.0,408.41,2020-05-12
+Unincorporated - Avocado Heights,14.0,206.64,2020-05-12
+Unincorporated - Azusa,34.0,213.53,2020-05-12
+Unincorporated - Bassett,39.0,263.21,2020-05-12
+Unincorporated - Bouquet Canyon,0.0,0.0,2020-05-12
+Unincorporated - Bradbury,0.0,0.0,2020-05-12
+Unincorporated - Canyon Country,28.0,362.32,2020-05-12
+Unincorporated - Castaic*,209.0,768.64,2020-05-12
+Unincorporated - Cerritos,0.0,0.0,2020-05-12
+Unincorporated - Charter Oak,0.0,0.0,2020-05-12
+Unincorporated - Claremont,0.0,0.0,2020-05-12
+Unincorporated - Covina,37.0,219.99,2020-05-12
+Unincorporated - Covina (Charter Oak),25.0,190.2,2020-05-12
+Unincorporated - Del Aire,11.0,250.4,2020-05-12
+Unincorporated - Del Rey,0.0,0.0,2020-05-12
+Unincorporated - Del Sur,2.0,82.82,2020-05-12
+Unincorporated - Desert View Highlands,4.0,160.45,2020-05-12
+Unincorporated - Duarte,10.0,225.84,2020-05-12
+Unincorporated - East Covina,0.0,0.0,2020-05-12
+Unincorporated - East La Mirada,9.0,170.07,2020-05-12
+Unincorporated - East Lancaster,0.0,0.0,2020-05-12
+Unincorporated - East Los Angeles,491.0,391.96,2020-05-12
+Unincorporated - East Pasadena,0.0,0.0,2020-05-12
+Unincorporated - East Rancho Dominguez,27.0,176.38,2020-05-12
+Unincorporated - East Whittier,6.0,113.08,2020-05-12
+Unincorporated - El Camino Village,14.0,159.25,2020-05-12
+Unincorporated - El Monte,0.0,0.0,2020-05-12
+Unincorporated - Elizabeth Lake,1.0,60.2,2020-05-12
+Unincorporated - Florence-Firestone,315.0,486.82,2020-05-12
+Unincorporated - Franklin Canyon,0.0,0.0,2020-05-12
+Unincorporated - Glendora,2.0,303.03,2020-05-12
+Unincorporated - Hacienda Heights,73.0,130.53,2020-05-12
+Unincorporated - Harbor Gateway,0.0,0.0,2020-05-12
+Unincorporated - Hawthorne,4.0,159.11,2020-05-12
+Unincorporated - Hi Vista,0.0,0.0,2020-05-12
+Unincorporated - Kagel/Lopez Canyons,2.0,141.64,2020-05-12
+Unincorporated - La Crescenta-Montrose,21.0,106.06,2020-05-12
+Unincorporated - La Habra Heights,0.0,0.0,2020-05-12
+Unincorporated - La Rambla,7.0,337.35,2020-05-12
+Unincorporated - La Verne,3.0,147.06,2020-05-12
+Unincorporated - Ladera Heights,17.0,240.42,2020-05-12
+Unincorporated - Lake Hughes,0.0,0.0,2020-05-12
+Unincorporated - Lake Los Angeles,25.0,192.4,2020-05-12
+Unincorporated - Lake Manor,3.0,182.59,2020-05-12
+Unincorporated - Lakewood,0.0,0.0,2020-05-12
+Unincorporated - Lennox,71.0,314.97,2020-05-12
+Unincorporated - Leona Valley,1.0,57.11,2020-05-12
+Unincorporated - Littlerock,11.0,273.56,2020-05-12
+Unincorporated - Littlerock/Juniper Hills,2.0,154.2,2020-05-12
+Unincorporated - Littlerock/Pearblossom,11.0,308.21,2020-05-12
+Unincorporated - Llano,1.0,114.03,2020-05-12
+Unincorporated - Marina del Rey,13.0,138.14,2020-05-12
+Unincorporated - Miracle Mile,0.0,0.0,2020-05-12
+Unincorporated - Monrovia,15.0,386.5,2020-05-12
+Unincorporated - Newhall,0.0,0.0,2020-05-12
+Unincorporated - North Lancaster,4.0,333.89,2020-05-12
+Unincorporated - North Whittier,7.0,83.73,2020-05-12
+Unincorporated - Northeast San Gabriel,24.0,99.85,2020-05-12
+Unincorporated - Palmdale,4.0,475.06,2020-05-12
+Unincorporated - Palos Verdes Peninsula,0.0,0.0,2020-05-12
+Unincorporated - Pearblossom/Llano,2.0,102.25,2020-05-12
+Unincorporated - Pellissier Village,0.0,0.0,2020-05-12
+Unincorporated - Placerita Canyon,0.0,0.0,2020-05-12
+Unincorporated - Pomona,1.0,51.6,2020-05-12
+Unincorporated - Quartz Hill,29.0,224.7,2020-05-12
+Unincorporated - Rancho Dominguez,12.0,450.96,2020-05-12
+Unincorporated - Roosevelt,0.0,0.0,2020-05-12
+Unincorporated - Rosewood,5.0,388.8,2020-05-12
+Unincorporated - Rosewood/East Gardena,0.0,0.0,2020-05-12
+Unincorporated - Rosewood/West Rancho Dominguez,11.0,327.28,2020-05-12
+Unincorporated - Rowland Heights,72.0,141.12,2020-05-12
+Unincorporated - San Clemente Island,0.0,0.0,2020-05-12
+Unincorporated - San Francisquito Canyon/Bouquet Canyon,0.0,0.0,2020-05-12
+Unincorporated - San Jose Hills,33.0,163.2,2020-05-12
+Unincorporated - San Pasqual,0.0,0.0,2020-05-12
+Unincorporated - Sand Canyon,0.0,0.0,2020-05-12
+Unincorporated - Santa Catalina Island,2.0,749.06,2020-05-12
+Unincorporated - Santa Monica Mountains,20.0,107.41,2020-05-12
+Unincorporated - Saugus,4.0,2580.65,2020-05-12
+Unincorporated - Saugus/Canyon Country,0.0,0.0,2020-05-12
+Unincorporated - South Antelope Valley,0.0,0.0,2020-05-12
+Unincorporated - South El Monte,2.0,111.42,2020-05-12
+Unincorporated - South San Gabriel,21.0,237.34,2020-05-12
+Unincorporated - South Whittier,88.0,148.59,2020-05-12
+Unincorporated - Southeast Antelope Valley,0.0,0.0,2020-05-12
+Unincorporated - Stevenson Ranch,24.0,114.47,2020-05-12
+Unincorporated - Sun Village,7.0,115.97,2020-05-12
+Unincorporated - Sunrise Village,1.0,77.16,2020-05-12
+Unincorporated - Twin Lakes/Oat Mountain,4.0,241.25,2020-05-12
+Unincorporated - Val Verde,5.0,151.1,2020-05-12
+Unincorporated - Valencia,6.0,195.31,2020-05-12
+Unincorporated - Valinda,37.0,158.32,2020-05-12
+Unincorporated - View Park/Windsor Hills,28.0,240.65,2020-05-12
+Unincorporated - Walnut Park,60.0,371.68,2020-05-12
+Unincorporated - West Antelope Valley,2.0,132.36,2020-05-12
+Unincorporated - West Carson,79.0,357.69,2020-05-12
+Unincorporated - West Chatsworth,0.0,0.0,2020-05-12
+Unincorporated - West LA,22.0,2310.92,2020-05-12
+Unincorporated - West Puente Valley,27.0,274.53,2020-05-12
+Unincorporated - West Rancho Dominguez,3.0,220.75,2020-05-12
+Unincorporated - West Whittier/Los Nietos,65.0,241.41,2020-05-12
+Unincorporated - Westfield/Academy Hills,0.0,0.0,2020-05-12
+Unincorporated - Westhills,0.0,0.0,2020-05-12
+Unincorporated - White Fence Farms,2.0,54.3,2020-05-12
+Unincorporated - Whittier,6.0,158.56,2020-05-12
+Unincorporated - Whittier Narrows,0.0,0.0,2020-05-12
+Unincorporated - Willowbrook,91.0,260.65,2020-05-12
+Unincorporated - Wiseburn,9.0,149.33,2020-05-12
+-  Under Investigation,1699.0,,2020-05-12
+City of Agoura Hills,32,153.23,2020-05-13
+City of Alhambra,135,155.67,2020-05-13
+City of Arcadia,62,107.35,2020-05-13
+City of Artesia,17,101.22,2020-05-13
+City of Avalon,0,0,2020-05-13
+City of Azusa,111,221.82,2020-05-13
+City of Baldwin Park*,168,218.84,2020-05-13
+City of Bell,177,487.17,2020-05-13
+City of Bell Gardens,149,345.94,2020-05-13
+City of Bellflower*,216,277.87,2020-05-13
+City of Beverly Hills,120,347.62,2020-05-13
+City of Bradbury,2,187.09,2020-05-13
+City of Burbank,318,296.7,2020-05-13
+City of Calabasas,48,197.34,2020-05-13
+City of Carson*,323,344.18,2020-05-13
+City of Cerritos*,78,155.79,2020-05-13
+City of Claremont*,30,82.23,2020-05-13
+City of Commerce,22,168.34,2020-05-13
+City of Compton*,313,313.3,2020-05-13
+City of Covina*,115,234.54,2020-05-13
+City of Cudahy,109,447.69,2020-05-13
+City of Culver City,121,303.52,2020-05-13
+City of Diamond Bar,45,78.24,2020-05-13
+City of Downey*,331,289.68,2020-05-13
+City of Duarte,94,426.96,2020-05-13
+City of El Monte*,273,232.8,2020-05-13
+City of El Segundo,30,178.72,2020-05-13
+City of Gardena,197,321.32,2020-05-13
+City of Glendale*,785,380.16,2020-05-13
+City of Glendora*,79,149.72,2020-05-13
+City of Hawaiian Gardens,16,109.02,2020-05-13
+City of Hawthorne*,273,307.48,2020-05-13
+City of Hermosa Beach,25,127.1,2020-05-13
+City of Hidden Hills,1,52.91,2020-05-13
+City of Huntington Park,231,388.34,2020-05-13
+City of Industry,11,2517.16,2020-05-13
+City of Inglewood*,449,395.31,2020-05-13
+City of Irwindale,4,274.16,2020-05-13
+City of La Canada Flintridge*,46,222.3,2020-05-13
+City of La Habra Heights,7,128.32,2020-05-13
+City of La Mirada*,83,167.34,2020-05-13
+City of La Puente*,58,142.52,2020-05-13
+City of La Verne,23,69.11,2020-05-13
+City of Lakewood*,118,146.84,2020-05-13
+City of Lancaster*,438,271.09,2020-05-13
+City of Lawndale,81,240.97,2020-05-13
+City of Lomita,43,207.44,2020-05-13
+City of Lynwood*,295,409.45,2020-05-13
+City of Malibu,32,246.89,2020-05-13
+City of Manhattan Beach,71,197.23,2020-05-13
+City of Maywood,113,402.87,2020-05-13
+City of Monrovia,107,275.77,2020-05-13
+City of Montebello*,231,358.83,2020-05-13
+City of Monterey Park*,111,178.28,2020-05-13
+City of Norwalk*,270,250.88,2020-05-13
+City of Palmdale*,527,331.51,2020-05-13
+City of Palos Verdes Estates,40,295.81,2020-05-13
+City of Paramount,188,335.58,2020-05-13
+City of Pico Rivera*,287,446.46,2020-05-13
+City of Pomona*,279,178.93,2020-05-13
+City of Rancho Palos Verdes,76,177.79,2020-05-13
+City of Redondo Beach,120,174.68,2020-05-13
+City of Rolling Hills,2,103.09,2020-05-13
+City of Rolling Hills Estates,13,160.24,2020-05-13
+City of Rosemead,59,106.59,2020-05-13
+City of San Dimas,38,110.09,2020-05-13
+City of San Fernando,140,568.83,2020-05-13
+City of San Gabriel*,77,188.02,2020-05-13
+City of San Marino,18,135.57,2020-05-13
+City of Santa Clarita*,529,239.99,2020-05-13
+City of Santa Fe Springs,35,190.59,2020-05-13
+City of Santa Monica,222,240.14,2020-05-13
+City of Sierra Madre,8,72.8,2020-05-13
+City of Signal Hill,15,127.15,2020-05-13
+City of South El Monte,47,225.04,2020-05-13
+City of South Gate,333,339.26,2020-05-13
+City of South Pasadena*,107,410.7,2020-05-13
+City of Temple City*,97,266.08,2020-05-13
+City of Torrance*,327,219.07,2020-05-13
+City of Vernon,1,478.47,2020-05-13
+City of Walnut,30,98.26,2020-05-13
+City of West Covina*,190,175.54,2020-05-13
+City of West Hollywood,150,405.94,2020-05-13
+City of Westlake Village,6,71.77,2020-05-13
+City of Whittier*,197,225.32,2020-05-13
+Los Angeles*,16610,410.67,2020-05-13
+Los Angeles - Adams-Normandie,33,402.34,2020-05-13
+Los Angeles - Alsace,37,297.31,2020-05-13
+Los Angeles - Angeles National Forest,0,0,2020-05-13
+Los Angeles - Angelino Heights,11,439.65,2020-05-13
+Los Angeles - Arleta,177,514.98,2020-05-13
+Los Angeles - Atwater Village,38,259.1,2020-05-13
+Los Angeles - Baldwin Hills*,99,318.07,2020-05-13
+Los Angeles - Bel Air,32,379.64,2020-05-13
+Los Angeles - Beverly Crest,35,279.44,2020-05-13
+Los Angeles - Beverlywood,34,258.1,2020-05-13
+Los Angeles - Boyle Heights*,349,401.69,2020-05-13
+Los Angeles - Brentwood,70,226.13,2020-05-13
+Los Angeles - Brookside,0,0,2020-05-13
+Los Angeles - Cadillac-Corning,25,351.07,2020-05-13
+Los Angeles - Canoga Park,396,606.53,2020-05-13
+Los Angeles - Carthay,71,494.33,2020-05-13
+Los Angeles - Central,211,541.14,2020-05-13
+Los Angeles - Century City,33,257.97,2020-05-13
+Los Angeles - Century Palms/Cove,137,405.73,2020-05-13
+Los Angeles - Chatsworth*,136,366.96,2020-05-13
+Los Angeles - Cheviot Hills,18,196.27,2020-05-13
+Los Angeles - Chinatown,12,149.61,2020-05-13
+Los Angeles - Cloverdale/Cochran,46,316.09,2020-05-13
+Los Angeles - Country Club Park,79,521.35,2020-05-13
+Los Angeles - Crenshaw District,60,433.87,2020-05-13
+Los Angeles - Crestview,77,677.34,2020-05-13
+Los Angeles - Del Rey,59,197.09,2020-05-13
+Los Angeles - Downtown,95,345.37,2020-05-13
+Los Angeles - Eagle Rock,139,351.11,2020-05-13
+Los Angeles - East Hollywood*,175,597.53,2020-05-13
+Los Angeles - Echo Park,34,238.5,2020-05-13
+Los Angeles - El Sereno*,124,296.59,2020-05-13
+Los Angeles - Elysian Park,12,210.08,2020-05-13
+Los Angeles - Elysian Valley,34,334.28,2020-05-13
+Los Angeles - Encino*,106,234.66,2020-05-13
+Los Angeles - Exposition,6,180.4,2020-05-13
+Los Angeles - Exposition Park,188,418.55,2020-05-13
+Los Angeles - Faircrest Heights,4,111.11,2020-05-13
+Los Angeles - Figueroa Park Square,25,286.66,2020-05-13
+Los Angeles - Florence-Firestone,220,463.69,2020-05-13
+Los Angeles - Glassell Park*,144,455.64,2020-05-13
+Los Angeles - Gramercy Place,44,408.77,2020-05-13
+Los Angeles - Granada Hills*,183,314.48,2020-05-13
+Los Angeles - Green Meadows*,98,455.71,2020-05-13
+Los Angeles - Hancock Park,72,422.56,2020-05-13
+Los Angeles - Harbor City,58,199.52,2020-05-13
+Los Angeles - Harbor Gateway,90,206.42,2020-05-13
+Los Angeles - Harbor Pines,6,249.07,2020-05-13
+Los Angeles - Harvard Heights,91,504.57,2020-05-13
+Los Angeles - Harvard Park,190,500.86,2020-05-13
+Los Angeles - Highland Park,128,264.51,2020-05-13
+Los Angeles - Historic Filipinotown*,88,634.46,2020-05-13
+Los Angeles - Hollywood,224,328.19,2020-05-13
+Los Angeles - Hollywood Hills*,74,251.41,2020-05-13
+Los Angeles - Hyde Park,99,346.87,2020-05-13
+Los Angeles - Jefferson Park,28,346.84,2020-05-13
+Los Angeles - Koreatown,201,388.83,2020-05-13
+Los Angeles - Lafayette Square,15,329.02,2020-05-13
+Los Angeles - Lake Balboa,139,329.34,2020-05-13
+Los Angeles - Lakeview Terrace,74,563.47,2020-05-13
+Los Angeles - Leimert Park,43,282.24,2020-05-13
+Los Angeles - Lincoln Heights,164,503.11,2020-05-13
+Los Angeles - Little Armenia,164,2043.61,2020-05-13
+Los Angeles - Little Bangladesh,97,342.24,2020-05-13
+Los Angeles - Little Tokyo*,10,319.18,2020-05-13
+Los Angeles - Longwood,17,394.98,2020-05-13
+Los Angeles - Los Feliz,43,199,2020-05-13
+Los Angeles - Manchester Square,18,210.87,2020-05-13
+Los Angeles - Mandeville Canyon,1,32.01,2020-05-13
+Los Angeles - Mar Vista,65,153.05,2020-05-13
+Los Angeles - Marina Peninsula,9,206.42,2020-05-13
+Los Angeles - Melrose,429,552.15,2020-05-13
+Los Angeles - Mid-city,44,292.75,2020-05-13
+Los Angeles - Miracle Mile,38,211.29,2020-05-13
+Los Angeles - Mission Hills,102,422.82,2020-05-13
+Los Angeles - Mt. Washington,66,273.35,2020-05-13
+Los Angeles - North Hills*,281,456.35,2020-05-13
+Los Angeles - North Hollywood*,517,341.43,2020-05-13
+Los Angeles - Northridge,225,322.36,2020-05-13
+Los Angeles - Pacific Palisades,40,187.87,2020-05-13
+Los Angeles - Pacoima*,456,592.37,2020-05-13
+Los Angeles - Palisades Highlands,3,78,2020-05-13
+Los Angeles - Palms*,163,371.49,2020-05-13
+Los Angeles - Panorama City,489,649.83,2020-05-13
+Los Angeles - Park La Brea,13,95.73,2020-05-13
+Los Angeles - Pico-Union,396,946.42,2020-05-13
+Los Angeles - Playa Del Rey,2,62.58,2020-05-13
+Los Angeles - Playa Vista,20,182.7,2020-05-13
+Los Angeles - Porter Ranch,66,185.46,2020-05-13
+Los Angeles - Rancho Park,12,182.93,2020-05-13
+Los Angeles - Regent Square,3,107.91,2020-05-13
+Los Angeles - Reseda,346,451.6,2020-05-13
+Los Angeles - Reseda Ranch,24,517.69,2020-05-13
+Los Angeles - Reynier Village,9,212.87,2020-05-13
+Los Angeles - San Pedro*,764,979.01,2020-05-13
+Los Angeles - Shadow Hills,9,202.61,2020-05-13
+Los Angeles - Sherman Oaks*,188,215.46,2020-05-13
+Los Angeles - Silverlake,150,340.27,2020-05-13
+Los Angeles - South Carthay,27,254.84,2020-05-13
+Los Angeles - South Park,188,495.25,2020-05-13
+Los Angeles - St Elmo Village,31,676.27,2020-05-13
+Los Angeles - Studio City,65,289.66,2020-05-13
+Los Angeles - Sun Valley,207,394.41,2020-05-13
+Los Angeles - Sunland,113,553.7,2020-05-13
+Los Angeles - Sycamore Square,1,154.56,2020-05-13
+Los Angeles - Sylmar*,541,656.57,2020-05-13
+Los Angeles - Tarzana,96,310.92,2020-05-13
+Los Angeles - Temple-Beaudry,219,554.68,2020-05-13
+Los Angeles - Thai Town,24,244.67,2020-05-13
+Los Angeles - Toluca Lake,15,172.33,2020-05-13
+Los Angeles - Toluca Terrace,3,229.71,2020-05-13
+Los Angeles - Toluca Woods,3,161.46,2020-05-13
+Los Angeles - Tujunga,94,338.01,2020-05-13
+Los Angeles - University Hills,8,233.3,2020-05-13
+Los Angeles - University Park,116,422.49,2020-05-13
+Los Angeles - Valley Glen*,103,343.15,2020-05-13
+Los Angeles - Valley Village,173,699.84,2020-05-13
+Los Angeles - Van Nuys,489,524.71,2020-05-13
+Los Angeles - Venice,57,168.22,2020-05-13
+Los Angeles - Vermont Knolls,90,523.26,2020-05-13
+Los Angeles - Vermont Square,65,848.9,2020-05-13
+Los Angeles - Vermont Vista,190,461.32,2020-05-13
+Los Angeles - Vernon Central,335,644.26,2020-05-13
+Los Angeles - Victoria Park,44,523.87,2020-05-13
+Los Angeles - View Heights,8,216.57,2020-05-13
+Los Angeles - Watts,152,356.19,2020-05-13
+Los Angeles - Wellington Square,16,325.53,2020-05-13
+Los Angeles - West Adams,156,564.6,2020-05-13
+Los Angeles - West Hills*,80,197.31,2020-05-13
+Los Angeles - West Los Angeles,64,170.05,2020-05-13
+Los Angeles - West Vernon*,299,557.38,2020-05-13
+Los Angeles - Westchester,81,156.97,2020-05-13
+Los Angeles - Westlake*,439,739.62,2020-05-13
+Los Angeles - Westwood,58,107.19,2020-05-13
+Los Angeles - Wholesale District*,292,808.22,2020-05-13
+Los Angeles - Wilmington,135,238.99,2020-05-13
+Los Angeles - Wilshire Center,163,324.9,2020-05-13
+Los Angeles - Winnetka*,219,422.89,2020-05-13
+Los Angeles - Woodland Hills,134,196.9,2020-05-13
+Unincorporated - Acton,8,100.36,2020-05-13
+Unincorporated - Agua Dulce,3,72.15,2020-05-13
+Unincorporated - Altadena*,114,261.35,2020-05-13
+Unincorporated - Anaverde,1,66.31,2020-05-13
+Unincorporated - Angeles National Forest,0,0,2020-05-13
+Unincorporated - Arcadia,4,50.12,2020-05-13
+Unincorporated - Athens-Westmont,147,346.36,2020-05-13
+Unincorporated - Athens Village,20,408.41,2020-05-13
+Unincorporated - Avocado Heights,14,206.64,2020-05-13
+Unincorporated - Azusa,36,226.09,2020-05-13
+Unincorporated - Bassett,43,290.21,2020-05-13
+Unincorporated - Bouquet Canyon,0,0,2020-05-13
+Unincorporated - Bradbury,0,0,2020-05-13
+Unincorporated - Canyon Country,30,388.2,2020-05-13
+Unincorporated - Castaic*,229,842.19,2020-05-13
+Unincorporated - Cerritos,0,0,2020-05-13
+Unincorporated - Charter Oak,0,0,2020-05-13
+Unincorporated - Claremont,0,0,2020-05-13
+Unincorporated - Covina,40,237.83,2020-05-13
+Unincorporated - Covina (Charter Oak),25,190.2,2020-05-13
+Unincorporated - Del Aire,11,250.4,2020-05-13
+Unincorporated - Del Rey,0,0,2020-05-13
+Unincorporated - Del Sur*,2,82.82,2020-05-13
+Unincorporated - Desert View Highlands,5,200.56,2020-05-13
+Unincorporated - Duarte,10,225.84,2020-05-13
+Unincorporated - East Covina,0,0,2020-05-13
+Unincorporated - East La Mirada,9,170.07,2020-05-13
+Unincorporated - East Lancaster,0,0,2020-05-13
+Unincorporated - East Los Angeles,517,412.71,2020-05-13
+Unincorporated - East Pasadena,1,15.62,2020-05-13
+Unincorporated - East Rancho Dominguez*,27,176.38,2020-05-13
+Unincorporated - East Whittier,6,113.08,2020-05-13
+Unincorporated - El Camino Village,14,159.25,2020-05-13
+Unincorporated - El Monte,0,0,2020-05-13
+Unincorporated - Elizabeth Lake,3,180.61,2020-05-13
+Unincorporated - Florence-Firestone,327,505.37,2020-05-13
+Unincorporated - Franklin Canyon,0,0,2020-05-13
+Unincorporated - Glendora,2,303.03,2020-05-13
+Unincorporated - Hacienda Heights*,78,139.47,2020-05-13
+Unincorporated - Harbor Gateway,0,0,2020-05-13
+Unincorporated - Hawthorne,4,159.11,2020-05-13
+Unincorporated - Hi Vista,0,0,2020-05-13
+Unincorporated - Kagel/Lopez Canyons,2,141.64,2020-05-13
+Unincorporated - La Crescenta-Montrose,23,116.16,2020-05-13
+Unincorporated - La Habra Heights,0,0,2020-05-13
+Unincorporated - La Rambla,7,337.35,2020-05-13
+Unincorporated - La Verne,3,147.06,2020-05-13
+Unincorporated - Ladera Heights*,17,240.42,2020-05-13
+Unincorporated - Lake Hughes,0,0,2020-05-13
+Unincorporated - Lake Los Angeles,25,192.4,2020-05-13
+Unincorporated - Lake Manor,3,182.59,2020-05-13
+Unincorporated - Lakewood,0,0,2020-05-13
+Unincorporated - Lennox,75,332.71,2020-05-13
+Unincorporated - Leona Valley,2,114.22,2020-05-13
+Unincorporated - Littlerock,14,348.17,2020-05-13
+Unincorporated - Littlerock/Juniper Hills,2,154.2,2020-05-13
+Unincorporated - Littlerock/Pearblossom,12,336.23,2020-05-13
+Unincorporated - Llano,1,114.03,2020-05-13
+Unincorporated - Marina del Rey,13,138.14,2020-05-13
+Unincorporated - Miracle Mile,0,0,2020-05-13
+Unincorporated - Monrovia,15,386.5,2020-05-13
+Unincorporated - Newhall,0,0,2020-05-13
+Unincorporated - North Lancaster,4,333.89,2020-05-13
+Unincorporated - North Whittier,7,83.73,2020-05-13
+Unincorporated - Northeast San Gabriel,24,99.85,2020-05-13
+Unincorporated - Palmdale,4,475.06,2020-05-13
+Unincorporated - Palos Verdes Peninsula,0,0,2020-05-13
+Unincorporated - Pearblossom/Llano,2,102.25,2020-05-13
+Unincorporated - Pellissier Village,0,0,2020-05-13
+Unincorporated - Placerita Canyon,0,0,2020-05-13
+Unincorporated - Pomona,1,51.6,2020-05-13
+Unincorporated - Quartz Hill*,29,224.7,2020-05-13
+Unincorporated - Rancho Dominguez,13,488.54,2020-05-13
+Unincorporated - Roosevelt,0,0,2020-05-13
+Unincorporated - Rosewood,5,388.8,2020-05-13
+Unincorporated - Rosewood/East Gardena,0,0,2020-05-13
+Unincorporated - Rosewood/West Rancho Dominguez,12,357.04,2020-05-13
+Unincorporated - Rowland Heights,77,150.92,2020-05-13
+Unincorporated - San Clemente Island,0,0,2020-05-13
+Unincorporated - San Francisquito Canyon/Bouquet Canyon,0,0,2020-05-13
+Unincorporated - San Jose Hills,36,178.03,2020-05-13
+Unincorporated - San Pasqual,1,49.14,2020-05-13
+Unincorporated - Sand Canyon,0,0,2020-05-13
+Unincorporated - Santa Catalina Island,2,749.06,2020-05-13
+Unincorporated - Santa Monica Mountains,20,107.41,2020-05-13
+Unincorporated - Saugus,4,2580.65,2020-05-13
+Unincorporated - Saugus/Canyon Country,0,0,2020-05-13
+Unincorporated - South Antelope Valley,0,0,2020-05-13
+Unincorporated - South El Monte,2,111.42,2020-05-13
+Unincorporated - South San Gabriel,23,259.95,2020-05-13
+Unincorporated - South Whittier*,91,153.66,2020-05-13
+Unincorporated - Southeast Antelope Valley,0,0,2020-05-13
+Unincorporated - Stevenson Ranch,27,128.78,2020-05-13
+Unincorporated - Sun Village,8,132.54,2020-05-13
+Unincorporated - Sunrise Village,2,154.32,2020-05-13
+Unincorporated - Twin Lakes/Oat Mountain,4,241.25,2020-05-13
+Unincorporated - Val Verde,12,362.65,2020-05-13
+Unincorporated - Valencia,6,195.31,2020-05-13
+Unincorporated - Valinda*,39,166.87,2020-05-13
+Unincorporated - View Park/Windsor Hills*,29,249.25,2020-05-13
+Unincorporated - Walnut Park,61,377.87,2020-05-13
+Unincorporated - West Antelope Valley,2,132.36,2020-05-13
+Unincorporated - West Carson,79,357.69,2020-05-13
+Unincorporated - West Chatsworth,0,0,2020-05-13
+Unincorporated - West LA,22,2310.92,2020-05-13
+Unincorporated - West Puente Valley*,29,294.87,2020-05-13
+Unincorporated - West Rancho Dominguez,3,220.75,2020-05-13
+Unincorporated - West Whittier/Los Nietos,76,282.27,2020-05-13
+Unincorporated - Westfield/Academy Hills,0,0,2020-05-13
+Unincorporated - Westhills,0,0,2020-05-13
+Unincorporated - White Fence Farms,2,54.3,2020-05-13
+Unincorporated - Whittier,6,158.56,2020-05-13
+Unincorporated - Whittier Narrows,0,0,2020-05-13
+Unincorporated - Willowbrook,96,274.97,2020-05-13
+Unincorporated - Wiseburn,9,149.33,2020-05-13
+-  Under Investigation,1681,,2020-05-13
