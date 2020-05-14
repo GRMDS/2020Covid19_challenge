@@ -9,4 +9,4 @@ This is a data repository for the 2020 COVID-19 Computational Challenge hosted b
 ### **Contact Us:**
 Email covid.challenge@rmdslab.com
 ### **Terms of Use:**
-Reference the open data portals for terms of use. The majority of open data falls under CC1: Public Domain Dedication License [https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/)
+Reference the open data portals for terms of use. The majority of open data falls under [CC1: Public Domain Dedication License](https://creativecommons.org/publicdomain/zero/1.0/).
