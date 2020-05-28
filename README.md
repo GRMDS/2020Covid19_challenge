@@ -4,7 +4,6 @@ This is a data repository for the 2020 COVID-19 Computational Challenge hosted b
 ### **2020 COVID-19 Challenge:** 
 [https://grmds.org/2020challenge](https://grmds.org/2020challenge)
 ### **Data Sources:**
-- City of Los Angeles Geospatial Data ("GeoHub"): [http://geohub.lacity.org/datasets/covid19-by-neighborhood-1/data](http://geohub.lacity.org/datasets/covid19-by-neighborhood-1/data)
 - County of Los Angeles Public Health Data: [http://publichealth.lacounty.gov/media/coronavirus/](http://publichealth.lacounty.gov/media/coronavirus/)
 ### **Contact Us:**
 Email covid.challenge@rmdslab.com
