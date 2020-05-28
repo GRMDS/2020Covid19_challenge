@@ -5,6 +5,7 @@ The folder contains daily data at neighborhood-level. All data is read from the 
 - Cases: number infected
 - rate: case rate per 100,000 people
 - collect_time: date of data collection  
+  
 You can find out more information about the dataset [here](http://publichealth.lacounty.gov/phcommon/public/media/mediapubhpdetail.cfm?prid=2319). 
 ### **Update Frequency:** 
 Daily from May 12, 2020
